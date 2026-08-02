@@ -4,10 +4,6 @@
 QA & Engineering Leader based in Lisbon 🇵🇹 — building resilient testing infrastructure and teams.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BrunoMedley&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 ---
 
 ### 🧭 Background
@@ -47,4 +43,8 @@ Passionate about growing QA culture inside engineering orgs — leadership devel
 <p align="left">
   <a href="https://www.linkedin.com/in/brunomedley/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://myfirepath.app"><img src="https://img.shields.io/badge/-myFirePath-16A34A?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrunoMedley&style=flat-square&color=blue" alt="Profile views" />
 </p>
