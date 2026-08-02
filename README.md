@@ -4,6 +4,10 @@
 QA & Engineering Leader based in Lisbon 🇵🇹 — building resilient testing infrastructure and teams.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BrunoMedley&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 ### 🧭 Background
